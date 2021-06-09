@@ -1,2 +1,5 @@
 # titanic-machine-learning
-Machine learning in Python - project based on Kaggle Competition 'Titanic - Machine Learning from Disaster'
+Machine Learning project in Python, Jupyter Notebook.
+
+Project based on Kaggle's Competition named: "Titanic - Machine Learning from Disaster"
+Link to the competition: https://www.kaggle.com/c/titanic
